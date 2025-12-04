@@ -12,9 +12,6 @@ header {
 
 .link {
     text-decoration: none;
-}
-
-ul {
     color: #2E2F42;
     list-style: none;
     font-family: Roboto, sans-serif;
@@ -24,11 +21,14 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.link-cont {
-    text-decoration: none;
+ul {
+    color: #2E2F42;
+    list-style: none;
+    font-family: Roboto, sans-serif;
 }
 
-.contact {
+.link-cont {
+    text-decoration: none;
     color: #404BBF;
     list-style: none;
     font-family: Roboto, sans-serif;
